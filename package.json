@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@studio-freight/lenis": "^1.0.0",
+    "@studio-freight/lenis": "^1.0.42",
     "@toast-ui/editor": "^3.2.1",
     "@toast-ui/editor-plugin-code-syntax-highlight": "^3.1.0",
     "@toast-ui/editor-plugin-color-syntax": "^3.1.0",
@@ -18,7 +18,7 @@
     "axios": "^0.26.1",
     "cloudinary": "^1.29.0",
     "formidable": "^2.0.1",
-    "iron-session": "^6.1.2",
+    "iron-session": "^8.0.4",
     "lru-cache": "^7.8.1",
     "moment-timezone": "^0.5.34",
     "mongodb": "^4.1.3",
